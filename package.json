@@ -1,7 +1,7 @@
 {
-  "name": "com.lukeparsons.simplesfm.",
+  "name": "com.lukeparsons.simplesfm",
   "version": "1.0",
-  "displayName": "Unused Assets Finder",
+  "displayName": "Simple FSM",
   "description": "simple sfm",
   "unity": "2019.4",
   "dependencies": {
