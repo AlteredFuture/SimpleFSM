@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
-using UnityEngine;
 
-namespace AITools
+namespace FSM
 {
     public abstract class FsmState<T> : FsmState
     {

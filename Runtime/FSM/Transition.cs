@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AITools
+namespace FSM
 {
     public class Transition
     {

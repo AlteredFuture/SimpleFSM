@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using JetBrains.Annotations;
+﻿using System.Collections.Generic;
 
-namespace AITools
+namespace FSM
 {
     public class BlackBoard
     {
