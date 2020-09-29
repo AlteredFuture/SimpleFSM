@@ -2,7 +2,7 @@
   "name": "com.lukeparsons.simplesfm",
   "version": "1.0",
   "displayName": "Simple FSM",
-  "description": "simple sfm",
+  "description": "simple FSM",
   "unity": "2019.4",
   "dependencies": {
   },
